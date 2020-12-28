@@ -1,2 +1,2 @@
-Testing the integration between Jenkins & GitHub
+Testing the integration between Jenkins & GitHub\
 new line added
