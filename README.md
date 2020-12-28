@@ -1,2 +1,3 @@
 Testing the integration between Jenkins & GitHub\
-new line added
+new line added\
+one more line
